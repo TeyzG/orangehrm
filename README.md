@@ -16,7 +16,7 @@ Dự án kiểm tra đăng nhập OrangeHRM bằng Robot Framework
 - Đăng nhập thành công: Dùng tài khoản Admin/admin123
 - Đăng nhập thất bại: Dùng tài khoản sai
   
-![image](https://github.com/user-attachments/assets/c76eee85-0fb9-4178-988b-1c61a4e09f7d)
+![image](https://github.com/user-attachments/assets/589ad4b3-ab1c-4b5e-95f0-bf9a84f47035)
 
 Liên hệ: luong_2251220018@dau.edu.vn nếu có lỗi
 Tác giả:
